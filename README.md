@@ -193,3 +193,8 @@ Tampilan jika memilih menu yang tidak ada di pilihan
 
 
 ![image](https://github.com/Dinda023/Post-Test-2-PBO/assets/127454468/f2509fab-d153-42fd-b69f-b59a35f15acd)
+
+
+### Kesimpulan
+
+Dalam studi kasus "Toko Cat" sebuah program sederhana telah dibuat untuk membantu pemilik toko cat dalam mengelola inventaris produk cat, merekrut dan mengelola staf kasir, serta mencatat penjualan produk. Program ini memungkinkan pemilik toko untuk melakukan operasi seperti melihat, menambah, mengedit, dan menghapus produk cat, serta mengelola daftar kasir. Dengan merekam transaksi penjualan, pemilik toko dapat memantau kinerja kasir dan tren penjualan produk. Dengan demikian, program ini memberikan alat yang efisien dalam pengelolaan toko cat.
