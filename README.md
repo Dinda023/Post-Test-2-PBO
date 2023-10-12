@@ -2,7 +2,7 @@
 
 ### Nama: Dinda Nur Aini
 ### NIM: 2209116023
-### Kelas: A1 Sistem Informasi A
+### Kelas: A1 Sistem Informasi A'22
 ### Tema: Toko Cat
 
 Studi kasus "Toko Cat" menggambarkan sebuah toko cat yang memanfaatkan program untuk mengelola produk cat, mengelola daftar kasir, dan mencatat penjualan. Pemilik toko dapat dengan mudah melihat, menambah, mengedit, dan menghapus produk cat dari stok mereka, merekrut dan menghapus kasir yang bekerja di toko, serta mencatat setiap transaksi pembelian. Dengan melihat riwayat transaksi, pemilik toko dapat memantau kinerja dan tren penjualan produk, membantu dalam pengelolaan yang lebih efisien.
