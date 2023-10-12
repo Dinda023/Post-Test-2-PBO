@@ -15,9 +15,10 @@
 
 #### Source Code
 
+
 ### Package TokoCat
 
-Entitas TokoCat
+#### Entitas TokoCat
 
 
 ![image](https://github.com/Dinda023/Post-Test-2-PBO/assets/127454468/82776510-633c-4399-a1dd-9a7787203721)
@@ -35,7 +36,7 @@ Menggunakan ArrayList untuk menyimpan produk cat, kasir (sebelumnya karyawan), d
 Mengimplementasikan operasi CRUD (Create, Read, Update, Delete) untuk produk cat dan kasir.
 Memiliki metode untuk melihat produk, menambah produk, mengedit produk, menghapus produk, melihat kasir, menambah kasir, menghapus kasir, serta operasi pembelian produk dan melihat riwayat transaksi.
 
-Entitas Karyawan
+#### Entitas Karyawan
 
 
 ![image](https://github.com/Dinda023/Post-Test-2-PBO/assets/127454468/ee40b7c4-6f96-454e-9cab-aa9e85b7e713)
@@ -44,7 +45,7 @@ Ini adalah entitas yang mewakili kasir di toko.
 Menyimpan informasi seperti nama kasir dan gaji.
 Memiliki setter dan getter untuk mengakses properti dan metode toString untuk representasi string.
 
-Entitas ProdukCat
+#### Entitas ProdukCat
 
 
 ![image](https://github.com/Dinda023/Post-Test-2-PBO/assets/127454468/02d3eff1-1df7-4185-ac02-01bcfd3f2b17)
@@ -53,7 +54,7 @@ Ini adalah entitas yang mewakili produk cat yang dijual di toko.
 Menyimpan informasi seperti nama produk cat dan harga.
 Memiliki setter dan getter untuk mengakses properti dan metode toString untuk representasi string.
 
-Entitas Transaksi
+#### Entitas Transaksi
 
 
 ![image](https://github.com/Dinda023/Post-Test-2-PBO/assets/127454468/ad5cfab0-61ce-44d5-9898-179f827dd6b8)
@@ -62,7 +63,9 @@ Ini adalah entitas yang mewakili transaksi pembelian produk.
 Menghubungkan kasir (sebelumnya karyawan) dengan produk yang dibeli.
 Memiliki setter dan getter untuk mengakses properti dan metode toString untuk representasi string.
 
-Package main
+### Package main
+
+#### Entitas Main
 
 
 ![image](https://github.com/Dinda023/Post-Test-2-PBO/assets/127454468/ffee1f2c-65da-4b37-8c1f-94e96e254742)
@@ -74,11 +77,11 @@ Ini berfungsi sebagai penghubung antara pengguna (melalui menu) dan kelas TokoCa
 Menyediakan menu interaktif yang memungkinkan pengguna untuk memilih berbagai operasi seperti melihat produk, menambah produk, mengedit produk, menghapus produk, melihat karyawan, menambah karyawan, menghapus karyawan, membeli produk, dan melihat riwayat transaksi.
 Menggunakan objek dari kelas TokoCat untuk menjalankan operasi yang sesuai.
 
-#### Output
+### Output
 
-Menu Utama
+#### Menu Utama
 
-Menu Utama 1
+#### Menu Utama 1
 
 
 ![image](https://github.com/Dinda023/Post-Test-2-PBO/assets/127454468/87ae20ff-5678-49ab-a4dc-09fe84cf2ec9)
@@ -87,7 +90,7 @@ Menu Utama 1
 Opsi ini digunakan untuk melihat daftar produk cat yang tersedia di toko.
 Memungkinkan pengguna untuk melihat semua produk cat beserta nama dan harga masing-masing.
 
-Menu Utama 2
+#### Menu Utama 2
 
 
 ![image](https://github.com/Dinda023/Post-Test-2-PBO/assets/127454468/d03e081c-ca5d-4f4e-815e-e8db31c48a88)
@@ -96,7 +99,7 @@ Menu Utama 2
 Opsi ini digunakan untuk menambahkan produk cat baru ke daftar produk yang tersedia di toko.
 Pengguna diminta untuk memasukkan nama produk dan harganya.
 
-Menu Utama 3
+#### Menu Utama 3
 
 
 ![image](https://github.com/Dinda023/Post-Test-2-PBO/assets/127454468/0775cc5a-4b0d-462f-b841-29e2f3cc6c39)
@@ -110,7 +113,7 @@ Tampilan jika memilih nomor yang tidak ada di pilihan
 
 ![image](https://github.com/Dinda023/Post-Test-2-PBO/assets/127454468/230affb2-7379-4faa-b7cc-0763218a66bf)
 
-Menu Utama 4
+#### Menu Utama 4
 
 
 ![image](https://github.com/Dinda023/Post-Test-2-PBO/assets/127454468/28b7477c-eb59-4b6c-80bd-5b0862d4cfc3)
@@ -124,7 +127,7 @@ Tampilan jika memilih nomor yang tidak ada di pilihan
 
 ![image](https://github.com/Dinda023/Post-Test-2-PBO/assets/127454468/8600df5e-5b48-4e23-a4a6-7816769d537f)
 
-Menu Utama 5
+#### Menu Utama 5
 
 
 ![image](https://github.com/Dinda023/Post-Test-2-PBO/assets/127454468/67c07de8-67d0-4800-a408-11a00c149b91)
@@ -133,7 +136,7 @@ Menu Utama 5
 Opsi ini digunakan untuk melihat daftar kasir yang bekerja di toko.
 Menampilkan informasi seperti nama kasir, jabatan, dan nomor kasir.
 
-Menu Utama 6
+#### Menu Utama 6
 
 
 ![image](https://github.com/Dinda023/Post-Test-2-PBO/assets/127454468/e2be0de1-5ef2-44da-aff2-914e96b5479b)
@@ -142,7 +145,7 @@ Menu Utama 6
 Opsi ini digunakan untuk menambahkan kasir baru ke daftar karyawan yang bekerja di toko.
 Pengguna diminta untuk memasukkan nama kasir dan gajinya.
 
-Menu Utama 7
+#### Menu Utama 7
 
 ![image](https://github.com/Dinda023/Post-Test-2-PBO/assets/127454468/9e8705f6-f3c5-46e1-9b45-aceba415ce49)
 
@@ -155,7 +158,7 @@ Tampilan jika memilih nomor yang tidak ada di pilihan
 ![image](https://github.com/Dinda023/Post-Test-2-PBO/assets/127454468/f594f601-42a6-4aed-a6cb-ab73da247ded)
 
 
-Menu Utama 8
+#### Menu Utama 8
 
 ![image](https://github.com/Dinda023/Post-Test-2-PBO/assets/127454468/b0a4f4e3-728d-413b-b720-529967a8ef8c)
 
@@ -168,7 +171,7 @@ Tampilan jika memilih nomor yang tidak ada di pilihan
 ![image](https://github.com/Dinda023/Post-Test-2-PBO/assets/127454468/3e95a0a1-e2ae-4041-aeb0-f987018c4937)
 
 
-Menu Utama 9
+#### Menu Utama 9
 
 
 ![image](https://github.com/Dinda023/Post-Test-2-PBO/assets/127454468/4da83ca4-0f97-4765-9748-5645a345efd0)
@@ -176,7 +179,7 @@ Menu Utama 9
 
 Opsi ini akan menampilkan tampilan riwayat transaksi.
 
-Menu Utama 10
+#### Menu Utama 10
 
 
 ![image](https://github.com/Dinda023/Post-Test-2-PBO/assets/127454468/a134c341-b710-43b1-ae90-6a7c699be6be)
