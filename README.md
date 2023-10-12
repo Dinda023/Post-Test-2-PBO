@@ -38,6 +38,8 @@ Menggunakan ArrayList untuk menyimpan produk cat, kasir (sebelumnya karyawan), d
 Mengimplementasikan operasi CRUD (Create, Read, Update, Delete) untuk produk cat dan kasir.
 Memiliki metode untuk melihat produk, menambah produk, mengedit produk, menghapus produk, melihat kasir, menambah kasir, menghapus kasir, serta operasi pembelian produk dan melihat riwayat transaksi.
 
+Coding ini hanya menggunakan final property dan tidak menggunakan final Method dikarenakan final Method menandai sebuah metode sebagai final menghentikan subkelas dari mengganti atau meng-override metode tersebut. Dalam kasus ini, diinginkan untuk dapat memberikan fleksibilitas bagi subkelas untuk mengubah perilaku metode tersebut sesuai dengan kebutuhan.
+
 #### Entitas Karyawan
 
 
